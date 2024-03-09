@@ -25,6 +25,7 @@ override.tf.json
 
 # Include override files you do wish to add to version control using negated pattern
 # !example_override.tf
+# .terraform/providers/registry.terraform.io/hashicorp/azurerm/3.94.0/windows_amd64/terraform-provider-azurerm_v3.94.0_x5.exe
 
 # Include tfplan files to ignore the plan output of command: terraform plan -out=tfplan
 # example: *tfplan*
